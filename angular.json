@@ -27,14 +27,7 @@
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "node_modules/font-awesome/css/font-awesome.min.css"
             ],
-            "scripts": [
-              "ng": "ng",
-              "start": "ng serve",
-              "build": "ng build",
-              "test": "ng test",
-              "lint": "ng lint",
-              "e2e": "ng e2e"
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {
